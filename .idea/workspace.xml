@@ -1,216 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1e8f4784-15e5-4e33-934a-50a3f0b6c686" name="Default" comment="probando tocar el header para ver si funcionan los cambios">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/crypto_imagenes/11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/crypto_imagenes/16.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/icons/font/Metrize-Icons.eot@" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/icons/font/Metrize-Icons.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/icons/font/Metrize-Icons.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/icons/font/Metrize-Icons.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/assets/album1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/assets/album2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/assets/album3(1).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/assets/album3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/assets/album4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/assets/album5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/rs-plugin/images/revolution/arrow_left.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/rs-plugin/images/revolution/arrow_left2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/rs-plugin/images/revolution/arrow_right2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/rs-plugin/images/revolution/arrowleft.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/rs-plugin/images/revolution/arrowright(2).png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/rs-plugin/images/revolution/arrowright.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/assets/bcm.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/rs-plugin/images/revolution/boxed_bgtile.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/assets/breadcrumbs1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/assets/breadcrumbs12.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/assets/breadcrumbs14.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/assets/breadcrumbs15.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/assets/breadcrumbs2(1).png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/assets/breadcrumbs2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/assets/breadcrumbs3(1).png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/assets/breadcrumbs3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/assets/breadcrumbs4(1).png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/assets/breadcrumbs4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/rs-plugin/images/revolution/bullet.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/rs-plugin/images/revolution/bullet_boxed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/rs-plugin/images/revolution/bullets.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/rs-plugin/images/revolution/bullets2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/assets/cadaver2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/assets/camps2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/crypto_imagenes/cartel.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/customize/images/close.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/rs-plugin/images/revolution/coloredbg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/customize/images/colorpicker_overlay.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/customize/images/colorpicker_select.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/crypto_imagenes/cripcrip.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/crypto_imagenes/criptocerdos.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/customize/images/custom_background.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/customize/images/custom_hex.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/customize/images/custom_hsb_b.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/customize/images/custom_hsb_h.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/customize/images/custom_indic.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/customize/images/custom_rgb_b.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/customize/images/custom_rgb_g.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/customize/images/custom_rgb_r.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/customize/images/custom_submit.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/assets/danza.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/assets/fondovideo.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/icons/font/fontawesome-webfont.eot@" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/icons/font/fontawesome-webfont.eot@v=3.2.1" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/icons/font/fontawesome-webfont.ttf@v=3.2.1" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/icons/font/fontawesome-webfont.woff@v=3.2.1" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/crypto_imagenes/foto.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/rs-plugin/images/gradient/g30.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/rs-plugin/images/gradient/g40.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap/img/glyphicons-halflings-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap/img/glyphicons-halflings.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/assets/grao.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/assets/joni.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/rs-plugin/images/revolution/large_left.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/rs-plugin/images/revolution/large_right.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/rs-plugin/images/revolution/loader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/crypto_imagenes/logo.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/rs-plugin/images/revolution/navigdots.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/rs-plugin/images/revolution/navigdots_bgtile.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/assets/nuevo.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/customize/images/pencil.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/crypto_imagenes/pies.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/customize/images/select2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/customize/images/select3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/rs-plugin/images/revolution/shadow1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/rs-plugin/images/revolution/shadow2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/rs-plugin/images/revolution/shadow3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/rs-plugin/images/revolution/small_left.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/rs-plugin/images/revolution/small_left_boxed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/rs-plugin/images/revolution/small_right.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/rs-plugin/images/revolution/small_right_boxed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/rs-plugin/images/revolution/timer.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/assets/trella.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/rs-plugin/images/revolution/ttlarge_left.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/rs-plugin/images/revolution/ttlarge_right.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/assets/user1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/assets/user2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/crypto_imagenes/video.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/assets/videos1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/assets/videos2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/assets/vila.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/404.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/icons/font/Metrize-Icons.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/WebCriptozoos.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/band.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog-both-sidebar.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog-left-sidebar.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog-right-sidebar.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog-single-slider.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog-single-video.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog-single_comment_form.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog-single_facebook_comment.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog-single_half.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog-single_wide.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog-without-sidebar.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap/css/bootstrap-responsive.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contact.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contact2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contador.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/contador.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/copiacriptoabout.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cripto-about(2).php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cripto-about.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cripto-contacto.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cripto-contacto2.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cripto-eventos.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cripto-fotos.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cripto-musica.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cripto-musica3.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cripto-musicab.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cripto-videos.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/criptoplayvideo.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/custom.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discos.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/events.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eventsb.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/icons/font/fontawesome-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sections/footer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fullwide.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery3.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery4.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/gmap3.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sections/header.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/icons/icons.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/icons.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index_revolution.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.flexslider-min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.jplayer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.masonry.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.nanoscroller.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.prettyPhoto.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.stapel.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/rs-plugin/pluginsources/jquery.themepunch.plugins.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/rs-plugin/js/jquery.themepunch.revolution.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/twitter/jquery.tweet.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libreria.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/modernizr.custom.63321.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mp3_play_list.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mp3_single_half.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mp3_single_half2.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mp3_single_wide.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mp3s.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/myplaylist.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news_single.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/icons/newstyle.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/procesar.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/customize/script.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/search.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/send.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/rs-plugin/css/settings.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shortcode_accordion.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shortcode_buttons.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shortcode_columns.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shortcode_divider_lines.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shortcode_dropcaps.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shortcode_googlefonts.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shortcode_googlemap.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shortcode_highlights.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shortcode_lightbox.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shortcode_list_styles.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shortcode_message_box.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shortcode_quote.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shortcode_social_icons.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shortcode_tab.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shortcode_tables.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shortcode_toggle.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shortcode_video.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/single-track.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/single-track2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/customize/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/style2.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/support-topic.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/support-topics.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/support_forum.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/ttw-music-player-min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/video_single_half.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/video_single_wide.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/video_single_wide2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/videos.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    <list default="true" id="1e8f4784-15e5-4e33-934a-50a3f0b6c686" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="WebCriptozoos.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -473,8 +265,9 @@
     <frame x="65" y="-4" width="1301" height="772" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32973805" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32973805" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32973805" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32973805" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32973805" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.38674885" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -488,7 +281,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32973805" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -510,7 +302,8 @@
     <MESSAGE value="he añadido header.php dentro de sections" />
     <MESSAGE value="he añadido footer.php dentro de sections" />
     <MESSAGE value="probando tocar el header para ver si funcionan los cambios" />
-    <option name="LAST_COMMIT_MESSAGE" value="probando tocar el header para ver si funcionan los cambios" />
+    <MESSAGE value="he puesto un favicon" />
+    <option name="LAST_COMMIT_MESSAGE" value="he puesto un favicon" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
