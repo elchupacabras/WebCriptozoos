@@ -1,0 +1,591 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1e8f4784-15e5-4e33-934a-50a3f0b6c686" name="Default" comment="probando tocar el header para ver si funcionan los cambios">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/crypto_imagenes/11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/crypto_imagenes/16.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/icons/font/Metrize-Icons.eot@" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/icons/font/Metrize-Icons.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/icons/font/Metrize-Icons.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/icons/font/Metrize-Icons.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/assets/album1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/assets/album2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/assets/album3(1).jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/assets/album3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/assets/album4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/assets/album5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/rs-plugin/images/revolution/arrow_left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/rs-plugin/images/revolution/arrow_left2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/rs-plugin/images/revolution/arrow_right2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/rs-plugin/images/revolution/arrowleft.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/rs-plugin/images/revolution/arrowright(2).png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/rs-plugin/images/revolution/arrowright.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/assets/bcm.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/rs-plugin/images/revolution/boxed_bgtile.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/assets/breadcrumbs1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/assets/breadcrumbs12.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/assets/breadcrumbs14.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/assets/breadcrumbs15.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/assets/breadcrumbs2(1).png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/assets/breadcrumbs2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/assets/breadcrumbs3(1).png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/assets/breadcrumbs3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/assets/breadcrumbs4(1).png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/assets/breadcrumbs4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/rs-plugin/images/revolution/bullet.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/rs-plugin/images/revolution/bullet_boxed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/rs-plugin/images/revolution/bullets.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/rs-plugin/images/revolution/bullets2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/assets/cadaver2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/assets/camps2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/crypto_imagenes/cartel.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/customize/images/close.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/rs-plugin/images/revolution/coloredbg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/customize/images/colorpicker_overlay.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/customize/images/colorpicker_select.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/crypto_imagenes/cripcrip.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/crypto_imagenes/criptocerdos.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/customize/images/custom_background.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/customize/images/custom_hex.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/customize/images/custom_hsb_b.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/customize/images/custom_hsb_h.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/customize/images/custom_indic.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/customize/images/custom_rgb_b.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/customize/images/custom_rgb_g.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/customize/images/custom_rgb_r.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/customize/images/custom_submit.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/assets/danza.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/assets/fondovideo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/icons/font/fontawesome-webfont.eot@" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/icons/font/fontawesome-webfont.eot@v=3.2.1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/icons/font/fontawesome-webfont.ttf@v=3.2.1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/icons/font/fontawesome-webfont.woff@v=3.2.1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/crypto_imagenes/foto.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/rs-plugin/images/gradient/g30.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/rs-plugin/images/gradient/g40.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap/img/glyphicons-halflings-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap/img/glyphicons-halflings.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/assets/grao.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/assets/joni.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/rs-plugin/images/revolution/large_left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/rs-plugin/images/revolution/large_right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/rs-plugin/images/revolution/loader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/crypto_imagenes/logo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/rs-plugin/images/revolution/navigdots.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/rs-plugin/images/revolution/navigdots_bgtile.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/assets/nuevo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/customize/images/pencil.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/crypto_imagenes/pies.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/customize/images/select2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/customize/images/select3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/rs-plugin/images/revolution/shadow1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/rs-plugin/images/revolution/shadow2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/rs-plugin/images/revolution/shadow3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/rs-plugin/images/revolution/small_left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/rs-plugin/images/revolution/small_left_boxed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/rs-plugin/images/revolution/small_right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/rs-plugin/images/revolution/small_right_boxed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/rs-plugin/images/revolution/timer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/assets/trella.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/rs-plugin/images/revolution/ttlarge_left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/rs-plugin/images/revolution/ttlarge_right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/assets/user1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/assets/user2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/crypto_imagenes/video.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/assets/videos1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/assets/videos2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/assets/vila.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/404.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/icons/font/Metrize-Icons.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/WebCriptozoos.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/archive.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/band.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog-both-sidebar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog-left-sidebar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog-right-sidebar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog-single-slider.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog-single-video.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog-single_comment_form.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog-single_facebook_comment.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog-single_half.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog-single_wide.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog-without-sidebar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blog.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap/css/bootstrap-responsive.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contact.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contact2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contador.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/contador.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/copiacriptoabout.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cripto-about(2).php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cripto-about.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cripto-contacto.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cripto-contacto2.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cripto-eventos.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cripto-fotos.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cripto-musica.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cripto-musica3.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cripto-musicab.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cripto-videos.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/criptoplayvideo.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/custom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/discos.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/events.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/eventsb.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/icons/font/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sections/footer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fullwide.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery3.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery4.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/gmap3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sections/header.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/icons/icons.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/icons.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index_revolution.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.flexslider-min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.jplayer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.masonry.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.nanoscroller.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.prettyPhoto.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.stapel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/rs-plugin/pluginsources/jquery.themepunch.plugins.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/rs-plugin/js/jquery.themepunch.revolution.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/twitter/jquery.tweet.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libreria.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/modernizr.custom.63321.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mp3_play_list.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mp3_single_half.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mp3_single_half2.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mp3_single_wide.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mp3s.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/myplaylist.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/news_single.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/icons/newstyle.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/procesar.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/customize/script.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/search.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/send.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/rs-plugin/css/settings.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shortcode_accordion.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shortcode_buttons.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shortcode_columns.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shortcode_divider_lines.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shortcode_dropcaps.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shortcode_googlefonts.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shortcode_googlemap.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shortcode_highlights.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shortcode_lightbox.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shortcode_list_styles.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shortcode_message_box.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shortcode_quote.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shortcode_social_icons.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shortcode_tab.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shortcode_tables.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shortcode_toggle.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shortcode_video.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/single-track.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/single-track2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/customize/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/style2.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/support-topic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/support-topics.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/support_forum.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/ttw-music-player-min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/video_single_half.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/video_single_wide.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/video_single_wide2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/videos.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+    <ignored path="WebCriptozoos.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="WebCriptozoos" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="header.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sections/header.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="19" column="57" selection-start="1101" selection-end="1101" vertical-scroll-proportion="0.7460733" vertical-offset="0" max-vertical-offset="555">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index_revolution.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index_revolution.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="241" column="52" selection-start="11516" selection-end="11516" vertical-scroll-proportion="-1.9137931" vertical-offset="3504" max-vertical-offset="7185">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="67" column="42" selection-start="3329" selection-end="3329" vertical-scroll-proportion="-20.833334" vertical-offset="505" max-vertical-offset="2880">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="footer.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sections/footer.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="90">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="elchupacabras" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/index_revolution.html" />
+        <option value="$PROJECT_DIR$/sections/header.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="65" />
+    <option name="y" value="-4" />
+    <option name="width" value="1301" />
+    <option name="height" value="772" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebCriptozoos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebCriptozoos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebCriptozoos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebCriptozoos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebCriptozoos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sections" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebCriptozoos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebCriptozoos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebCriptozoos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebCriptozoos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebCriptozoos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebCriptozoos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="crypto_imagenes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1e8f4784-15e5-4e33-934a-50a3f0b6c686" name="Default" comment="" />
+      <created>1458903565459</created>
+      <updated>1458903565459</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="4">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="65" y="-4" width="1301" height="772" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32973805" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32973805" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.38674885" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26772907" sideWeight="0.49846154" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24701196" sideWeight="0.50153846" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32973805" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32973805" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+    <MESSAGE value="he añadido header.php dentro de sections" />
+    <MESSAGE value="he añadido footer.php dentro de sections" />
+    <MESSAGE value="probando tocar el header para ver si funcionan los cambios" />
+    <option name="LAST_COMMIT_MESSAGE" value="probando tocar el header para ver si funcionan los cambios" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/sections/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="0" selection-start="7" selection-end="7" vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="180">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index_revolution.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="6" selection-start="340" selection-end="340" vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="7185">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sections/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sections/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="90">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sections/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="90">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sections/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="406">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index_revolution.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="241" column="52" selection-start="11516" selection-end="11516" vertical-scroll-proportion="-1.9137931" vertical-offset="3504" max-vertical-offset="7185">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="67" column="42" selection-start="3329" selection-end="3329" vertical-scroll-proportion="-20.833334" vertical-offset="505" max-vertical-offset="2880">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sections/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="57" selection-start="1101" selection-end="1101" vertical-scroll-proportion="0.7460733" vertical-offset="0" max-vertical-offset="555">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
