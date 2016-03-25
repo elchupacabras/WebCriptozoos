@@ -42,12 +42,12 @@
             <div class="revolution">
                 <ul>
                     <li data-transition="random" data-slotamount="7" data-masterspeed="300" >
-                        <img src="/crypto_imagenes/16.jpg" alt="slider" >
+                        <img src="./crypto_imagenes/16.jpg" alt="slider" >
 
                     </li>
 
                     <li data-transition="random" data-slotamount="7" data-masterspeed="300" >
-                        <img src="/crypto_imagenes/11.jpg" alt="slider2" >
+                        <img src="./crypto_imagenes/11.jpg" alt="slider2" >
 
                         <div class="tp-caption big_black randomrotate"
                              data-x="603"
@@ -65,7 +65,7 @@
                     </li>
 
                     <li data-transition="random" data-slotamount="7" data-masterspeed="300" >
-                        <img src="/crypto_imagenes/14.jpg" alt="slider3" >
+                        <img src="./crypto_imagenes/14.jpg" alt="slider3" >
 
                         <div class="tp-caption large_text randomrotate"
                              data-x="543"
