@@ -144,7 +144,7 @@
 									</li>
 								</ul>
 							</li>
-							<li><a href="mp3s.html">MP3<span class="sub">full archive</span></a></li>
+							<li><a href="cripto-musica3.php">MP3<span class="sub">full archive</span></a></li>
 							<li><a href="videos.html">Video<span class="sub">latest clips</span></a></li>
 							<li><a href="gallery4.html">Gallery<span class="sub">Photo Gallery</span></a>
 								<ul>
