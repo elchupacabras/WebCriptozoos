@@ -52,7 +52,7 @@
     <div class="headdown">
         <div class="row clearfix">
             <div class="logo bottomtip" title="Best and Most Popular Musics">
-                <a href="#"><img src="/crypto_imagenes/cripcrip.png" alt="Best and Most Popular Musics"></a>
+                <a href="#"><img src="./crypto_imagenes/cripcrip.png" alt="Best and Most Popular Musics"></a>
             </div><!-- end logo -->
 
             <nav>
@@ -61,7 +61,8 @@
                         <a href="index.php">Inicio<span class="sub">Comienza aquí</span></a>
                     </li>
                     <li><a href="cripto-about.php">Sobre la banda<span class="sub">Los Criptozoos</span></a></li>
-                    <li><a href="cripto-musica.php">Material<span class="sub">Contenido digital</span></a>
+                    <li class="current selectedLava">
+                    <a href="cripto-musica.php">Material<span class="sub">Contenido digital</span></a>
                         <ul>
                             <li><a href="cripto-fotos.php">Galeria de fotos</a></li>
                             <li><a href="cripto-musica">Música</a></li>
@@ -70,9 +71,9 @@
 
                     </li>
                     <li><a href="cripto-eventos.php">Eventos<span class="sub">Próximos eventos</span></a></li>
-                    <li class="current selectedLava">
+                    <li>
                         <a href="cripto-contacto.php">Contacto<span class="sub">Contacta con nosotros</span></a>
-                    </li>>
+                    </li>
                 </ul><!-- end menu -->
             </nav><!-- end nav -->
 
