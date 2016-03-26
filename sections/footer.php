@@ -7,11 +7,11 @@
 					<div class="foot-menu">
 						<ul>
 							<li><a href="index.php">Home</a></li>
-							<li><a href="mp3s.html">MP3</a></li>
-							<li><a href="videos.html">Video</a></li>
+							<li><a href="cripto-musica.php">MP3</a></li>
+							<li><a href="cripto-videos.php">Video</a></li>
 							<li><a href="#">Photo Gallery</a></li>
-							<li><a href="http://d.theme20.com/remix_html/blog.html">Blog</a></li>
-							<li><a href="contact.html">Contact</a></li>
+							<li><a href="#">Blog</a></li>
+							<li><a href="cripto-contacto.php">Contact</a></li>
 						</ul><!-- end links -->
 					</div><!-- end foot menu -->
 				</div><!-- row -->
