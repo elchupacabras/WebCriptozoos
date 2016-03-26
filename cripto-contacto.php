@@ -48,7 +48,7 @@
     <div class="headdown">
         <div class="row clearfix">
             <div class="logo bottomtip" title="Los Criptozoos Punk Rock Band">
-                <a href="#"><img src="/crypto_imagenes/cripcrip.png" alt="Los Criptozoos Punk Rock Band"></a>
+                <a href="#"><img src="./crypto_imagenes/cripcrip.png" alt="Los Criptozoos Punk Rock Band"></a>
             </div><!-- end logo -->
 
             <nav>

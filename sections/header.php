@@ -1,8 +1,3 @@
-
-<!DOCTYPE html>
-
-<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US">
-
 <head>
 	<title>Los Criptozoos - Punk Rock</title>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
@@ -80,12 +75,12 @@
 			<div class="headdown">
 				<div class="row clearfix">
 					<div class="logo bottomtip" title="Best and Most Popular Musics">
-						<a href="index.html#"><img src="images/logoporno.png" alt="Best and Most Popular Musics"></a>
+						<a href="index.html#"><img src="images/LOGO.png" alt="Best and Most Popular Musics"></a>
 					</div><!-- end logo -->
 
 					<nav>
 						<ul class="sf-menu">
-							<li class="current selectedLava"><a href="index.html">Home<span class="sub">start here</span></a>
+							<li class="current selectedLava"><a href="index.html">Inicio<span class="sub">comienza aqui</span></a>
 								<ul>
 								<!--	<li><a href="index_revolution.html">Home 2 - Revolution</a></li> -->
 								<!--	<li><a href="index_modern.html">Home 3 - Modern</a></li> -->
@@ -95,7 +90,7 @@
 							</li>
 							<li><a href="index.html">Features<span class="sub">remix all features</span></a>
 								<ul>
-									<li><a href="index.html#">Shortcodes</a>
+									<li><a href="index.html">Shortcodes</a>
 										<ul>
 											<li><a href="shortcode_accordion.html">Accordion</a></li>
 											<li><a href="shortcode_buttons.html">Buttons</a></li>
@@ -171,7 +166,7 @@
 									<li><a href="news_single.html">News Single</a></li>
 								</ul>
 							</li>
-							<li><a href="blog-right-sidebar.html">Blog<span class="sub">latest news</span></a>
+							<li><a href="cripto-contacto.php">Contacto<span class="sub">latest news</span></a>
 								<ul>
 									<li><a href="blog-right-sidebar.html">Blog</a></li>
 									<li><a href="blog-left-sidebar.html">Blog Left Sidebar</a></li>
