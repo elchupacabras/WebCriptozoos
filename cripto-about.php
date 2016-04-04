@@ -63,7 +63,7 @@
 
                     <div class="blockquote"> Con un directo explosivo y rebosante de  adrenalina que a nadie deja indiferente, los criptozoos disfrutan al maximo sus conciertos, se entregan al publico de una manera vehemente y se dejan el alma en cada actuacion.</div>
 
-                    <img src="images/32.jpg" class="flr">
+                    <img src="images/32a.jpg" class="flr">
                     <p> En 2010 grabaron con escasos medios tanto tecnicos como economicos el que fue su primer trabajo, "salgo de noche", una maqueta con 13 temas frescos, con buen rollo y buenas ideas. Ese aÑo ganan el concurso "sequiol rock" quedando primeros de nueve bandas, lo que les permite grabar en 2012 " la danza del cadaver ",  su segundo trabajo que cosecharia exitos ya desde su presentacion. Premiado como el "mejor cd de rock del 2012" por el prestigioso programa de la radio inglesa BCFM "the Sunday rockshow" del conocido musico y presentador Jon Wesbey.</p>
 
                     <div class="blockquote left"> Muchas son las webs y los blogs que a nivel nacional se hacen eco de los premios y realizan sus criticas. En agosto del 2014 sale johnny, un ep de dos temas. Actualmente, los criptozoos se encuentran puliendo su cuarto trabajo que grabaran en noviembre del 2014. </div>

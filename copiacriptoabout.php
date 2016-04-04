@@ -58,12 +58,12 @@
                     <h4> Punk-Rock </h4><span class="liner"></span>
 
                     <p>Los criptozoos es una banda nacida en 2009 en castellon de la plana. Esta formada por salva a la guitarra y a las voces, rober al bajo y a las voces, jose a la bateria, josue a la guitarra y natxo a la voz. </p>
-                    <img src="images/graocopia.jpg" class="fll">
+                    <img src="images/graocopia2.jpg" class="fll">
                     <p> Lo que inicialmente empezo como pasatiempo y divertimiento de estos 5 amigos ya curtidos en otras bandas, pronto paso a ser un proyecto serio mediante el cual dieron rienda suelta a su creatividad y a sus inquietudes. Si bien hunden sus raices en el punk-rock de la vieja escuela, los criptozoos huyen de estereotipos y etiquetas, y no se cortan para nada en hacer lo que les nace y lo que les place. Asi, vemos a los criptozoos como una banda de rock sin complejos, honesta y comprometida.</p>
 
                     <div class="blockquote"> Con un directo explosivo y rebosante de  adrenalina que a nadie deja indiferente, los criptozoos disfrutan al maximo sus conciertos, se entregan al publico de una manera vehemente y se dejan el alma en cada actuacion.</div>
 
-                    <img src="images/32(copia1).jpg" class="flr">
+                    <img src="images/32a.jpg" class="flr">
                     <p> En 2010 grabaron con escasos medios tanto tecnicos como economicos el que fue su primer trabajo, "salgo de noche", una maqueta con 13 temas frescos, con buen rollo y buenas ideas. Ese aÑo ganan el concurso "sequiol rock" quedando primeros de nueve bandas, lo que les permite grabar en 2012 " la danza del cadaver ",  su segundo trabajo que cosecharia exitos ya desde su presentacion. Premiado como el "mejor cd de rock del 2012" por el prestigioso programa de la radio inglesa BCFM "the Sunday rockshow" del conocido musico y presentador Jon Wesbey.</p>
 
                     <div class="blockquote left"> Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words.</div>
