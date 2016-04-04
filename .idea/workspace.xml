@@ -4,7 +4,9 @@
     <bookmark url="file://$PROJECT_DIR$/mp3s.html" line="320" mnemonic="5" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1e8f4784-15e5-4e33-934a-50a3f0b6c686" name="Default" comment="he puesto musicab johnny" />
+    <list default="true" id="1e8f4784-15e5-4e33-934a-50a3f0b6c686" name="Default" comment="ya esta el albuem estero de tetuan">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="WebCriptozoos.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -367,7 +369,8 @@
     <MESSAGE value="he puesto un favicon" />
     <MESSAGE value="hr cambiado un enlaze en el header criptomusica3,php" />
     <MESSAGE value="he puesto musicab johnny" />
-    <option name="LAST_COMMIT_MESSAGE" value="he puesto musicab johnny" />
+    <MESSAGE value="ya esta el albuem estero de tetuan" />
+    <option name="LAST_COMMIT_MESSAGE" value="ya esta el albuem estero de tetuan" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
