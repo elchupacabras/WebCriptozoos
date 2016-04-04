@@ -26,7 +26,7 @@
                     <a href="cripto-musica.php">Material<span class="sub">Contenido digital</span></a>
                         <ul>
                             <li><a href="cripto-fotos.php">Galeria de fotos</a></li>
-                            <li><a href="cripto-musica">Música</a></li>
+                            <li><a href="cripto-musica.php">Música</a></li>
                             <li><a href="cripto-videos.php">Videos</a></li>
                         </ul>
 
