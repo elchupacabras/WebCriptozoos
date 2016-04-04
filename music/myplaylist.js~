@@ -6,7 +6,7 @@ var myPlaylist = [
 	
 	{
 		
-		oga:'https://dl.dropboxusercontent.com/s/hc2ixxfk0c6ga4h/Los%20Criptozoos%20-%20En%20alta%20mar.mp3',
+		oga:'canciones/johnny.mp3',
 		title:'Missing You',
 		artist:'Dejans',
 		rating:5,
