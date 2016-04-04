@@ -5,7 +5,7 @@
 var myPlaylist = [
 	{
 
-		oga:'https://dl.dropboxusercontent.com/s/0x4nw6zgxco2nm4/12%20-%20Los%20Criptozoos%20-%20Como%20Una%20Estrella.mp3',
+		oga:'https://dl.dropboxusercontent.com/s/jxlt8g35wlxuedo/12%20-%20Los%20Criptozoos%20-%20Como%20Una%20Estrella.mp3',
 		title:'Como una estrella',
 		artist:'Los Criptozoos',
 		rating:5,
@@ -16,7 +16,7 @@ var myPlaylist = [
 
     {
 
-        oga:'https://dl.dropboxusercontent.com/s/e6vtiwwv7osvswl/johnny.mp3',
+        oga:'https://dl.dropboxusercontent.com/s/vc0j4z5jj01h0o9/johnny.mp3',
         title:'Johnny',
         artist:'Los Criptozoos',
         rating:5,
