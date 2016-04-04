@@ -107,7 +107,7 @@
                         <!-- carteles y dibujos -->
                         <li data-pile="Carteles y Dibujos" class="grid_3"><a href="images/dibus/dibu9.jpg" data-gal="photo[Carteles y Dibujos]"><img src="images/dibus/dibu9.jpg" alt="#28" /></a></li>
                         <li data-pile="Carteles y Dibujos" class="grid_3"><a href="images/dibus/dibu8.jpg" data-gal="photo[Carteles y Dibujos]"><img src="images/dibus/dibu8.jpg" alt="#28" /></a></li>
-                        <li data-pile="Carteles y Dibujos" class="grid_3"><a href="images/dibus/dibu7.jpg" data-gal="photo[Carteles y Dibujos]"><img src="images/dibus/dibu7.jpg" alt="#29" /></a></li>
+                    <!--    <li data-pile="Carteles y Dibujos" class="grid_3"><a href="images/dibus/dibu7.jpg" data-gal="photo[Carteles y Dibujos]"><img src="images/dibus/dibu7.jpg" alt="#29" /></a></li> -->
                         <li data-pile="Carteles y Dibujos" class="grid_3"><a href="images/dibus/dibu6.jpg" data-gal="photo[Carteles y Dibujos]"><img src="images/dibus/dibu6.jpg" alt="#30" /></a></li>
                         <li data-pile="Carteles y Dibujos" class="grid_3"><a href="images/dibus/dibu5.jpg" data-gal="photo[Carteles y Dibujos]"><img src="images/dibus/dibu5.jpg" alt="#31" /></a></li>
                         <li data-pile="Carteles y Dibujos" class="grid_3"><a href="images/dibus/dibu4.jpg" data-gal="photo[Carteles y Dibujos]"><img src="images/dibus/dibu4.jpg" alt="#32" /></a></li>
